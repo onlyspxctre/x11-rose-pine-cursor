@@ -2,4 +2,4 @@
 Name=X11-Rose-Pine
 Comment=Holy moly
 Example=left_ptr
-Inherits=default
+Inherits=Adwaita
